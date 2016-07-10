@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dungeons &amp; Dragons</string>
+
+    <string name="text">Benvenuto Avventuriero</string>
+    <string name="text1">Dungeons &amp; Dragons è un gioco di ruolo fantasy. Grazie alla nostra applicazione potrai avere sempre con te il Super manuale completo a portata di Touch.\n\n</string>
+    <string name="logo">Logo</string>
+
+    <string name="button">Manuale del\nGioco</string>
+    <string name="button1">Scheda del\nGiocatore</string>
+
+    <string name="button3">Le Armi</string>
+    <string name="button4">Gli Incantesimi</string>
+    <string name="button5">I Mostri</string>
+    <string name="button6">I Talenti</string>
+    <string name="button7">Le Ability</string>
+
+    <string name="text2">Questa e la sezione Manuale, da qui in poi, avrai la possibilita di scegliere in modo rapido la sezione che piu ti interessa, per una veloce e immediata documentazione.</string>
+    <string name="logomanuale">logomanuale</string>
+
+</resources>
