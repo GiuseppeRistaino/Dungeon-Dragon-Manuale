@@ -5,3 +5,5 @@ se il file del git config era impostato in modo corretto ieri gia' sera risolto 
 
 La vuoi cancellare questa cartella e caricare la tua?
 
+e cmq hai visto l'immaggine del mio profilo e un po provocatoria!
+
